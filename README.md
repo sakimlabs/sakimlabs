@@ -1,18 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>ERP implementation and IT infrastructure management<br><br>👯 I’m looking to collaborate on<br>DevOps, automation scripts and cloud infrastructure projects<br><br>🤝 I’m looking for help with<br>Advanced DevOps tools, Kubernetes and cloud architecture<br><br>🌱 I’m currently learning<br>Python, JavaScript, SQL, Docker, CI/CD and Cloud technologies<br><br>💬 Ask me about<br>Linux servers, MikroTik networking, VPN setup and web hosting<br><br>⚡ Fun fact<br>I love turning manual IT tasks into automation scripts
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md.%20Sakim&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Deployment%20%26%20IT%20Support%20Networking%20Specialist&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sakimlabs">
+    <img src="https://komarev.com/ghpvc/?username=sakimlabs&label=Profile%20views&color=00FFFF&style=flat-square" alt="sakimlabs's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🚀 Currently Working On
+- ERP implementation, IT infrastructure management and improving system reliability.
+- 🤝 Open to Collaborate
+- DevOps projects, automation tools, infrastructure setup and open-source contributions.
+- 🧠 Looking for Help With
+- Advanced DevOps practices, Kubernetes, cloud architecture and scalable systems.
+- 🌱 Currently Learning
+- Python, JavaScript, SQL, Docker, CI/CD pipelines and modern cloud technologies.
+- 💬 Ask Me About
+- Linux servers, MikroTik networking, VPN setup, web hosting and infrastructure troubleshooting.
+- ⚡ Fun Fact
+- I enjoy automating repetitive IT tasks and sometimes breaking servers just to learn how to fix them better 😄
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snrsakim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsakim) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@snrsakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snrsakim@gmail.com) 
+## 🧠 My Focus Areas
+- DevOps Engineering
+- Linux System Administration
+- Cloud Infrastructure
+- Automation with Python
+- Containerization (Docker)
+- CI/CD Pipelines
+- Networking & VPN Technologies
+- IT Infrastructure Management
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakimlabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sakimlabs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakimlabs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sakimlabs&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/sakimlabs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sakimlabs&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="sakimlabs's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=sakimlabs&theme=radical&hide_border=true&cache_seconds=86400" alt="sakimlabs's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sakimlabs&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Md. Sakim's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/sakimlabs">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sakimlabs&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/iamsakim/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:snrsakim@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://sakim.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
