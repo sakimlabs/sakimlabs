@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md.%20Sakim&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Deployment%20%26%20IT%20Support%20Networking%20Specialist&descSize=18&descAlignY=55&textBg=false"/>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Md. Sakim</h1>
+<h3 align="center">Software Deployment & IT Support Networking Specialist</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sakimlabs">
